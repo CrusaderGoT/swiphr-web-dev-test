@@ -1,0 +1,5 @@
+# link to the deploy static site on Render
+https://swiphr-web-dev-test.onrender.com
+
+# link to GitHub repository
+https://github.com/CrusaderGoT/swiphr-web-dev-test
