@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-#p7v@7&r(j58=w@3%_4$*6f(6e&c+-(ix&21xng5ju$s$6ul*s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["swiphr-web-dev-test.onrender.com", "localhost"]
 
 
 # Application definition
