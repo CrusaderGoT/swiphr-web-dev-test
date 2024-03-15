@@ -4,4 +4,4 @@ from django.shortcuts import render, HttpResponse
 
 def dash(request):
     if request.method == 'GET':
-        return render(request, template_name="index.html")
+        return render(request, template_name="dashboard/index.html")
